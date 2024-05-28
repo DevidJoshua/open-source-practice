@@ -896,7 +896,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Devansh Vashishat](https://github.com/bugslayer01)
   - [Devesh RB](https://github.com/Deveshb15)
   - [Devi K](https://github.com/deviradhasri99)
-  - [Devi Joshua](https://github.com/DevidJoshua)
+  - [Devid Joshua](https://github.com/DevidJoshua)
   - [Devin Droddy](https://github.com/ThePyroTF2)
   - [Devkant Swargiary](https://github.com/Devkant21)
   - [Devyanshi Srivastava](https://github.com/devyanshiiii21)
